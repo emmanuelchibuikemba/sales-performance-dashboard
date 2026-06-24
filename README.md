@@ -51,6 +51,12 @@ The raw dataset was cleaned and prepared before analysis. The cleaning process i
 
 ![Dashboard Design 2](images/dashboard_design_2.png)
 
+Full Analytical Report
+
+A detailed report covering the data-cleaning process, SQL analysis, Power BI dashboard findings, sales performance insights, business recommendations, and SQL result evidence is available below:
+
+[View the Full Sales Performance Analysis Report](report/sales_performance_analysis_report.pdf)
+
 ## Key Insights
 
 * Total revenue generated was approximately 2.26M.
@@ -69,6 +75,7 @@ The raw dataset was cleaned and prepared before analysis. The cleaning process i
 | `data/raw/` | [raw_sales_data.csv](data/raw/raw_sales_data.csv) | Original raw sales dataset before cleaning |
 | `data/cleaned/` | [cleaned_sales_data.xlsx](data/cleaned/cleaned_sales_data.xlsx) | Cleaned sales dataset used for analysis and dashboard creation |
 | `dashboard/` | [sales_performance_dashboard.pbix](dashboard/sales_performance_dashboard.pbix) | Power BI dashboard project file |
+| `report/` | [Full Analytical Report](report/sales_performance_analysis_report.pdf) | Report covering sales insights, SQL evidence, dashboard analysis, and recommendations |
 | `sql/` | [SQL SalesData.sql](sql/SQL%20SalesData.sql) | SQL queries used for sales analysis |
 | `images/` | [dashboard_design_1.png](images/dashboard_design_1.png) | First dashboard design screenshot |
 | `images/` | [dashboard_design_2.png](images/dashboard_design_2.png) | Second dashboard design screenshot |
